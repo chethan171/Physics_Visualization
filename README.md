@@ -6,7 +6,7 @@ Technologies Used
 Language: The project is developed using Python, which is known for its simplicity and readability. Python provides extensive libraries and frameworks that make it suitable for scientific computing, data visualization, and graphical applications.
 2. PyOpenGL
 Library: PyOpenGL is a cross-platform Python binding to OpenGL, which is a standard specification defining a cross-language, cross-platform API for rendering 2D and 3D vector graphics.
-Usage: It is used to render 3D graphics for the projectile motion and 4-stroke engine visualizations. PyOpenGL allows the creation of sophisticated graphics with efficient hardware acceleration.
+Usage: It is used to render 3D graphics for the visualizations. PyOpenGL allows the creation of sophisticated graphics with efficient hardware acceleration.
 3. pygame
 Library: pygame is a set of Python modules designed for writing video games. It includes computer graphics and sound libraries.
 Usage: In this project, pygame is used for handling window management, user input (keyboard and mouse), and event handling. It simplifies interaction with the graphical user interface.
